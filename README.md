@@ -28,6 +28,9 @@ O sistema permite mostrar produtos, aplicar descontos, somar valores e filtrar o
 
 ## 📷 Preview do Projeto
 
+🌐 Acesse o projeto online  
+https://joaodev-pro.github.io/array-burgersdev/
+
 ![Preview do Projeto](./img/preview.png)
 
 ---
